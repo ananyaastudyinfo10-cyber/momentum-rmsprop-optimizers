@@ -1,0 +1,5 @@
+Optimizer           Final loss  Train acc  Test acc Epochs to loss<=0.1  Time(s)
+--------------------------------------------------------------------------------
+Gradient Descent        0.0977     0.9812    0.9611                  98     0.49
+SGD + Momentum          0.0062     1.0000    0.9667                  10     0.47
+RMSProp                 0.0000     1.0000    0.9806                  11     0.45
